@@ -9,6 +9,7 @@ More info on the Social Dynamics and beyond: http://media.cs.tsinghua.edu.cn/~mu
 
 Author: Chengxi Zang<br>
 Date: 2017-06-10<br>
+Environments: Core i7-3770 CPU @ 3.4GHz 3.40 GHz; Memory 16.0 GB, 64-bit OS;  Matlab R2016a; <br>
 
 We offer a minimal set of code to fit and generate: 
 >> Long-Short-Memory-Process <br>
